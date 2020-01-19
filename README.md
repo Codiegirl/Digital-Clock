@@ -1,2 +1,2 @@
 # Digital-Clock
-This is a clock made with CSS, HTML, and JavaScript
+This is a clock made with CSS, HTML, and JavaScript.
